@@ -27,7 +27,7 @@ public class Grouplayout extends JFrame {
 		}
 	
 	public static void main(String[] args) {
-		Grouplayout john = new Grouplayout();
+		Grouplayout layout = new Grouplayout();
 	}
 	
 	private Container setUP(){
